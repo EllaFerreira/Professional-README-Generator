@@ -1,7 +1,7 @@
 # README Generator using node.js 🟢
 
 # Description
-A node.js application that creates a generated README.md file to the dist directory, click <a href= >here</a>
+A node.js application that creates a generated README.md file to the dist directory, click <a href="https://ellaferreira.github.io/Professional-README-Generator/" >here</a>
 
 * Table of Contents
 * Installation npm install inquirer is required;
