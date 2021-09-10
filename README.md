@@ -14,6 +14,7 @@ A node.js application that creates a generated README.md file to the dist direct
 * No tests are included
 
 # Mock-up
+[Screen Recording 2021-09-10 at 10.47.22 pm.mov.zip](https://github.com/EllaFerreira/Professional-README-Generator/files/7143831/Screen.Recording.2021-09-10.at.10.47.22.pm.mov.zip)
 
 
 
