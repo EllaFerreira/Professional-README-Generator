@@ -14,7 +14,8 @@ A node.js application that creates a generated README.md file to the dist direct
 * No tests are included
 
 # Mock-up
-<img width="1440" alt="Screen Shot 2021-09-10 at 10 51 15 pm" src="https://user-images.githubusercontent.com/84433857/132855982-0dc21f1c-d49e-4300-9faa-468dfa1f2acc.png">
+![image](https://user-images.githubusercontent.com/84433857/132856133-a37473de-442a-4417-bd4c-017471098ae1.png)
+
 
 
 
